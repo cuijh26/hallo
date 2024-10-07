@@ -165,6 +165,7 @@ cython_debug/
 # IDE
 .idea/
 .vscode/
-data
 pretrained_models
 test_data
+output_long
+hq_results
